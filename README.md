@@ -1,2 +1,2 @@
-# UVA-codes
+# UVA
 All my UVA solutions
